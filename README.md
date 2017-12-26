@@ -1,6 +1,5 @@
-----------------------
+
 Python Design Patterns
-----------------------
 <br>
 1. Singleton Pattern <br>
 2. Lazy instantiation in Singleton Pattern <br>
