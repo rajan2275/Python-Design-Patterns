@@ -6,3 +6,4 @@ Python Design Patterns
 3. Singleton with metaclass <br>
 4. Factory Pattern <br>
 5. Abstract factory Pattern <br>
+6. Facade Pattern <br>
