@@ -8,3 +8,4 @@ Python Design Patterns
 5. Abstract factory Pattern <br>
 6. Facade Pattern <br>
 7. Proxy Pattern <br>
+8. Observer Pattern <br>
