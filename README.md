@@ -1,6 +1,4 @@
 
-<a href='https://github.com/rajan2275/Python-Design-Patterns'>Python Design Patterns</a>
-<br>
 1. Singleton Pattern <br>
 2. Lazy instantiation in Singleton Pattern <br>
 3. Singleton with metaclass <br>
