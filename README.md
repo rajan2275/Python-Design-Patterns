@@ -8,3 +8,5 @@
 7. <a href='https://github.com/rajan2275/Python-Design-Patterns/blob/master/proxy.py'>Proxy Pattern</a> <br>
 8. <a href='https://github.com/rajan2275/Python-Design-Patterns/blob/master/observer.py'>Observer Pattern</a> <br>
 9. <a href='https://github.com/rajan2275/Python-Design-Patterns/blob/master/observer_example.py'>Observer Pattern in Publisher and Subscriber example</a> <br>
+10. <a href='https://github.com/rajan2275/Python-Design-Patterns/blob/master/command.py'>Command Pattern</a> <br>
+11. <a href='https://github.com/rajan2275/Python-Design-Patterns/blob/master/command_example.py'>Command Pattern Example</a> <br>
