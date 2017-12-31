@@ -1,4 +1,3 @@
-
 https://github.com/rajan2275/Python-Design-Patterns/blob/master/singleton.py
 https://github.com/rajan2275/Python-Design-Patterns/blob/master/lazy_instantiation_singleton.py
 https://github.com/rajan2275/Python-Design-Patterns/blob/master/singleton_with_metaclass.py
