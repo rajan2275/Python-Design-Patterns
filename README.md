@@ -11,3 +11,6 @@
 10. <a href='https://github.com/rajan2275/Python-Design-Patterns/blob/master/command.py'>Command Pattern</a> <br>
 11. <a href='https://github.com/rajan2275/Python-Design-Patterns/blob/master/command_example.py'>Command Pattern Example</a> <br>
 12. <a href='https://github.com/rajan2275/Python-Design-Patterns/blob/master/command_example_1.py'>Command Pattern Example_1</a> <br>
+13. <a href='https://github.com/rajan2275/Python-Design-Patterns/blob/master/template.py'>Template Pattern</a> <br>
+14. <a href='https://github.com/rajan2275/Python-Design-Patterns/blob/master/state.py'>State Pattern</a> <br>
+15. <a href='https://github.com/rajan2275/Python-Design-Patterns/blob/master/MVC.py'>Model View Controller</a> <br>
