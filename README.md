@@ -1,4 +1,5 @@
-Design Patterns implementation in python.
+Collection of design patterns in Python.<br>
+software design pattern is a general, reusable solution to a commonly occurring problem within a given context in software design. 
 
 1. <a href='https://github.com/rajan2275/Python-Design-Patterns/blob/master/Creational/singleton.py'>Singleton Pattern</a> <br>
 2. <a href='https://github.com/rajan2275/Python-Design-Patterns/blob/master/Creational/lazy_instantiation_singleton.py'>Lazy instantiation in Singleton Pattern</a> <br>
