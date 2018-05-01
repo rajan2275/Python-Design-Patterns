@@ -1,7 +1,9 @@
 
-# Singleton Class
-# Ensuring only one object of class gets created.
-# ------------------------------------------------
+# -----------------------------------------------------------------------
+# Singleton Pattern
+# -----------------------------------------------------------------------
+# singleton pattern restricts the instantiation of a class to one object. 
+# -----------------------------------------------------------------------
 
 
 class Singleton(object):
