@@ -1,3 +1,12 @@
+# ---------------------------------------------------------------------------------------------------
+# Gang of Four definition
+# ---------------------------------------------------------------------------------------------------
+# Define an interface for creating an object, but let subclasses decide which class to instantiate. 
+# The Factory method lets a class defer instantiation it uses to subclasses.
+# 
+# In example, client code is deciding about object instantiation.
+# ---------------------------------------------------------------------------------------------------
+
 from abc import ABC, abstractmethod
 
 class Database(ABC):
