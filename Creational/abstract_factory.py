@@ -7,7 +7,7 @@ from abc import ABC, abstractmethod
 
 class db_factory(ABC):
     @abstractmethod
-    def create_sql_db(self):
+    def create_no_sql_db(self):
         pass
     @abstractmethod
     def create_sql_db(self):
